@@ -1,18 +1,19 @@
 # 🌟 Dynamic Form Validation and DOM Manipulation
-
-**Level 2: Intermediate**  
-🎯 **Objective**: Enhance form validation and implement dynamic updates to the DOM for a smooth user experience.
+🎯 Enhance form validation and implement dynamic updates to the DOM for a smooth user experience.
 
 ---
 
 ## 🚀 Project Overview  
 This project focuses on:  
 1. 🌟 **Enhanced Form Validation**:  
-   - Validating user input with complex rules (e.g., email format and password strength).  
+   - Validating user input with complex rules (e.g., email format and password strength).
+   
 2. 🛠️ **Dynamic DOM Manipulation**:  
-   - Live updates based on user actions using **JavaScript**.  
+   - Live updates based on user actions using **JavaScript**.
+     
 3. ⚡ **Modern UI Design**:  
-   - A visually appealing interface with responsive and interactive elements.  
+   - A visually appealing interface with responsive and interactive elements.
+     
 4. 📂 **Client-Side Routing**:  
    - Added functionality for smoother navigation.
 
@@ -36,7 +37,6 @@ This project focuses on:
 ```
 ---
 ## ✨ Features
-
 - **Validation Rules**:  
   - ✅ Email format validation.  
   - ✅ Password strength check (at least 8 characters, 1 uppercase, 1 special character).  
@@ -49,22 +49,23 @@ This project focuses on:
   - 🌐 Works seamlessly across devices!
 
 ---
-
-- Works seamlessly across devices!
----
 ## 🎨 Preview
-**✨ Here’s how the form looks:*
+
+✨ Here’s how the form looks:
 [Interace]()
 ---
+
 ## ⚙️ Getting Started
 
 Follow these steps to set up and run the project on your local machine:
+
 ### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/dynamic-form-validation.git
 ```
 ### 2️⃣ Navigate to the Project Directory
+
 ```bash
 cd dynamic-form-validation
 ```
@@ -85,23 +86,37 @@ emailInput.addEventListener('input', () => {
 ```
 ---
 ## 🏆 Project Goals
+
 * To improve real-world development skills by working with:
 ✅ Advanced JavaScript functionality.
 ✅ Modern UI/UX practices.
 ✅ Dynamic user interactions.
+
 ---
+
 ## 🌟 Future Enhancements
+
 🔧 Add client-side routing for navigation.
 📊 Integrate with a backend for user authentication.
 ✨ Add dark mode toggle for better user experience.
+
 ---
+
 ## 👨‍💻 Contributing
+
 Contributions are always welcome! Feel free to fork the repository, make changes, and submit a pull request.
+
 ---
+
 ## 📧 Contact
+
 For questions or suggestions:
-📩 Email: lokeshv2403@gmail.com
-🌐 Portfolio: YourPortfolio
-🐙 GitHub: YourGitHub
----
+
+- 📩 **Email:** lokeshv2403@gmail.com
+
+- 💼 **LinkedIn:** 
+
+- 🐦 **Twitter**
+
+
 
