@@ -62,17 +62,17 @@ This project focuses on:
 
 Follow these steps to set up and run the project on your local machine:
 
-### 1️⃣ Clone the Repository
+ **1️⃣ Clone the Repository**
 
 ```bash
 git clone https://github.com/your-username/dynamic-form-validation.git
 ```
-### 2️⃣ Navigate to the Project Directory
+**2️⃣ Navigate to the Project Directory**
 
 ```bash
 cd dynamic-form-validation
 ```
-### 3️⃣ Open in Browser
+**3️⃣ Open in Browser**
 
 simply open **index.html** in your browser to see the magic.
 
