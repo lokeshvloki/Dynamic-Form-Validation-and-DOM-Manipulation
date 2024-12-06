@@ -49,10 +49,12 @@ This project focuses on:
   - 🌐 Works seamlessly across devices!
 
 ---
+
 ## 🎨 Preview
 
 ✨ Here’s how the form looks:
 [Interace]()
+
 ---
 
 ## ⚙️ Getting Started
@@ -70,10 +72,15 @@ git clone https://github.com/your-username/dynamic-form-validation.git
 cd dynamic-form-validation
 ```
 ### 3️⃣ Open in Browser
+
 simply open **index.html** in your browser to see the magic.
+
 ---
+
 ## 💻 Code Snippets
+
 ### Email Validation Code:
+
 ```javascript
 emailInput.addEventListener('input', () => {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -85,9 +92,11 @@ emailInput.addEventListener('input', () => {
 });
 ```
 ---
+
 ## 🏆 Project Goals
 
 * To improve real-world development skills by working with:
+
 ✅ Advanced JavaScript functionality.
 ✅ Modern UI/UX practices.
 ✅ Dynamic user interactions.
@@ -96,9 +105,11 @@ emailInput.addEventListener('input', () => {
 
 ## 🌟 Future Enhancements
 
-🔧 Add client-side routing for navigation.
-📊 Integrate with a backend for user authentication.
-✨ Add dark mode toggle for better user experience.
+- 🔧 Add client-side routing for navigation.
+
+- 📊 Integrate with a backend for user authentication.
+
+- ✨ Add dark mode toggle for better user experience.
 
 ---
 
