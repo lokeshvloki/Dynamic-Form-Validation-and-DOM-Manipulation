@@ -53,7 +53,7 @@ This project focuses on:
 ## 🎨 Preview
 
 ✨ Here’s how the form looks:
-[Interace]()
+[Interace](form.png)
 
 ---
 
@@ -98,7 +98,9 @@ emailInput.addEventListener('input', () => {
 * To improve real-world development skills by working with:
 
 ✅ Advanced JavaScript functionality.
+
 ✅ Modern UI/UX practices.
+
 ✅ Dynamic user interactions.
 
 ---
@@ -121,13 +123,10 @@ Contributions are always welcome! Feel free to fork the repository, make changes
 
 ## 📧 Contact
 
-For questions or suggestions:
+If you have any queries or feedback:
 
-- 📩 **Email:** lokeshv2403@gmail.com
-
-- 💼 **LinkedIn:** 
-
-- 🐦 **Twitter**
-
+* Email: lokeshv2403@gmail.com
+* LinkedIn: [Lokesh-v](https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* Twitter: [lokesh07](https://x.com/me_lokesh07)
 
 
