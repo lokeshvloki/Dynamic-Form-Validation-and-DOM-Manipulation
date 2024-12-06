@@ -53,7 +53,7 @@ This project focuses on:
 ## 🎨 Preview
 
 ✨ Here’s how the form looks:
-[Interace](form.png)
+[Interace](interface.png)
 
 ---
 
